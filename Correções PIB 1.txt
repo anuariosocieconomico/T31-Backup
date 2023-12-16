@@ -9,5 +9,5 @@ g1.3
 * Qual UF é RG? Seria o RS?
 
 g1.9
-* Variação em anos que consta no arquivo xlsx é a mesma para as duas figuras
+* Os anos da variação nos títulos das colunas no arquivo xlsx são os mesmos para as duas figuras
 
