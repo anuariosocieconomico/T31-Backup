@@ -1,0 +1,13 @@
+Correções Desenvolvimento Humano e Pobreza 20
+
+g20.1a
+* Valor está separado por ponto, e não vírgula 
+
+g20.2
+* Valor está separado por ponto, e não vírgula 
+
+g20.3a
+* Valor está separado por ponto, e não vírgula 
+
+g20.4
+* Valor está separado por ponto, e não vírgula
